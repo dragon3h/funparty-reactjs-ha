@@ -1,0 +1,22 @@
+{
+  "name": "funparty-reactjs-ha",
+  "version": "1.0.0",
+  "description": "react clean setup without create-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragon3h/funparty-reactjs-ha.git"
+  },
+  "author": "romr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragon3h/funparty-reactjs-ha/issues"
+  },
+  "homepage": "https://github.com/dragon3h/funparty-reactjs-ha#readme",
+  "dependencies": {
+    "eslint": "^7.6.0"
+  }
+}
