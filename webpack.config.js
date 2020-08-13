@@ -1,5 +1,7 @@
 const path = require('path');
 
+const devMode = process.env.NODE_ENV !== 'production';
+
 module.exports = {
   entry: './src/index.js',
   
@@ -12,7 +14,7 @@ module.exports = {
     contentBase: path.join(__dirname, 'public'),
     compress: false,
     open: true,
-    port: 1337,
+    port: 1338,
   },
   
   module: {
@@ -23,6 +25,11 @@ module.exports = {
         use: {
           loader: 'babel-loader',
         },
+      },
+      {
+        // Some change here
+        test: /\.scss$/,
+        use: ['style-loader', 'css-loader', 'sass-loader'],
       },
     ],
   },
