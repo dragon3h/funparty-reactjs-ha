@@ -1,15 +1,16 @@
 import React from 'react';
+import {BrowserRouter, Switch, Route} from 'react-router-dom';
 
+import BouncyCastles from '../products/bouncy-castles/components/bouncy-castles/bouncy-castles.component';
 import './app.styles.scss';
 
-const app = () => {
+const app = (props) => {
   return (
-      <div>
-        Hi Romr!
-        <p>
-          test some text
-        </p>
-      </div>
+      <BrowserRouter>
+        <Switch>
+          <Route path="/products" component={BouncyCastles} />
+        </Switch>
+      </BrowserRouter>
   );
 };
 

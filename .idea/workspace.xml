@@ -11,9 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dba3085d-6052-4360-8494-969fe3ee75c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bouncy-castles.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/bouncy-castles/components/bouncy-castle/bouncy-castle.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/bouncy-castles/components/bouncy-castle/bouncy-castle.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/bouncy-castles/components/bouncy-castles/bouncy-castles.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/bouncy-castles/components/bouncy-castles/bouncy-castles.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/components/custom-button/custom-button.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/components/custom-button/custom-button.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -41,14 +49,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/shared/components" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CODE_REPOSITORIES\Projects\Funparty\funparty-reactjs-ha\src\shared\components" />
+      <recent name="E:\CODE_REPOSITORIES\Projects\Funparty\funparty-reactjs-ha\src\products\bouncy-castles\components\bouncy-castle" />
+      <recent name="E:\CODE_REPOSITORIES\Projects\Funparty\funparty-reactjs-ha\src\products\bouncy-castles\components\bouncy-castles" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\CODE_REPOSITORIES\Projects\Funparty\funparty-reactjs-ha\src\assets" />
       <recent name="E:\CODE_REPOSITORIES\Projects\Funparty\funparty-reactjs-ha\src" />
     </key>
   </component>
@@ -65,7 +80,7 @@
       <workItem from="1597199955087" duration="131000" />
       <workItem from="1597231356773" duration="1902000" />
       <workItem from="1597268944429" duration="4475000" />
-      <workItem from="1597312392939" duration="1995000" />
+      <workItem from="1597312392939" duration="5167000" />
     </task>
     <servers />
   </component>
@@ -92,9 +107,9 @@
       <screen x="2560" y="0" width="2560" height="1400" />
     </state>
     <state x="3557" y="381" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1597003185193" />
-    <state x="3261" y="258" key="SettingsEditor" timestamp="1597003186068">
+    <state x="3261" y="258" key="SettingsEditor" timestamp="1597319890121">
       <screen x="2560" y="0" width="2560" height="1400" />
     </state>
-    <state x="3261" y="258" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1597003186068" />
+    <state x="3261" y="258" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1597319890121" />
   </component>
 </project>
